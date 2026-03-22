@@ -1,0 +1,33 @@
+REFUND POLICY:
+- Refunds available within 30 days of purchase.
+- Items must be unused and in original packaging.
+- Digital products are non-refundable after download.
+- To start a refund, email support@company.com with your order ID.
+
+SHIPPING INFORMATION:
+- Standard shipping: 5-7 business days.
+- Express shipping: 2-3 business days.
+- International shipping: 10-15 business days.
+- Free shipping on orders over $50.
+
+ACCOUNT MANAGEMENT:
+- Reset your password via the "Forgot Password" link on login.
+- Update billing info under Account > Payment Methods.
+- To delete your account, email support with your registered address.
+
+TECHNICAL SUPPORT:
+- Clear browser cache for most website issues.
+- Supported browsers: Chrome, Firefox, Safari, Edge (latest versions).
+- Mobile app available on iOS 14+ and Android 10+.
+- For API issues, check status.company.com.
+
+SUBSCRIPTION PLANS:
+- Basic: $9.99/month — 5 users, 10GB storage.
+- Pro: $29.99/month — 25 users, 100GB storage, priority support.
+- Enterprise: Custom pricing — unlimited users, dedicated support.
+- All plans include a 14-day free trial.
+
+CONTACT:
+- Live chat: Mon-Fri, 9am-6pm EST.
+- Email: support@company.com (24h response).
+- Phone: 1-800-555-0199 (Mon-Fri, 9am-5pm EST).
