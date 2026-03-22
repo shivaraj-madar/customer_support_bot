@@ -4,7 +4,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-0.2-green?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0.1-orange?style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-3.0-lightgrey?style=flat-square&logo=flask)
-![License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)
+
 
 > A fully local customer support chatbot — no internet, no API cost, no data leaves your machine.
 
@@ -289,4 +289,4 @@ def fetch_user_info(user_id: str) -> dict:
 
 ## 📄 License
 
-MIT License — free to use, modify, and distribute.
+ License — free to use, modify, and distribute.
